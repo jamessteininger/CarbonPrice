@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  carbon_price: MyString
+  carbon_description: MyText
+  carbon_rank: 1.5
+
+two:
+  name: MyString
+  description: MyText
+  carbon_price: MyString
+  carbon_description: MyText
+  carbon_rank: 1.5
